@@ -1,0 +1,28 @@
+Welcome to the Undo-Redo Calculator!
+
+This calculator handles the following commands:
+  +, -, *, /, %, C, U, R, and Q
+
+Arithmetic operators are followed by a single positive integer.
+C will clear memory, U will undo, R will redo, and Q will quit.
+
+0
+>300
+>-200
+>-2
+>No operations to redo
+-2
+>-200
+>300
+>Redoing: -500
+-200
+>0
+>-200
+>Redoing: C
+0
+>-200
+>-197
+>No operations to redo
+-197
+>
+Goodbye
